@@ -1,3 +1,3 @@
-nombre = "Laura"
-apellido = "Vargas"
-print("Hola "+ nombre + " " + apellido + ", gusto enclear conocerte")
+nombre = input('Ingrese su nombre: ')
+apellido = input('Ingrese su apellido: ')
+print("¡Hola "+ nombre + " " + apellido + ", gusto en conocerte!")

@@ -1,0 +1,5 @@
+radio = input('Ingrese la medida del Radio del Círculo: ')
+pi = (3.14) 
+radioalcuadrado = str(radio * radio)
+result = pi * str(radioalcuadrado)
+print("El área del Triángulo es: " + str(result))
